@@ -1,0 +1,16 @@
+{
+  "name": "acc-broadcast",
+  "version": "1.0.0",
+  "description": "ACC UDP Broadcast Listener",
+  "main": "AccBroadcast.js",
+  "keywords": [
+    "Assetto Corsa",
+    "UDP"
+  ],
+  "author": "Flopsterr",
+  "license": "ISC",
+  "dependencies": {
+    "binutils": "^0.1.0",
+    "utf8-bytes": "0.0.1"
+  }
+}
