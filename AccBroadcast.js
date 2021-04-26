@@ -73,6 +73,7 @@ class AccBroadcast extends EventEmitter {
 
   disconnect() {
     this.send(structs.DeregisterConnection());
+    process.exit(0);
   }
 
   send(buffer) {

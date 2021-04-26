@@ -287,7 +287,7 @@ enum BroadcastingCarEventType
 
 enum NationalityEnum
 {
-    Any = 0,
+  Any = 0,
 	Italy = 1,
 	Germany = 2,
 	France = 3,
@@ -365,12 +365,12 @@ enum NationalityEnum
 	Ukraine = 75,
 	Venezuela = 76,
 	Wales = 77,
-    Iran = 78,
-    Bahrain = 79,
-    Zimbabwe = 80,
-    ChineseTaipei = 81,
-    Chile = 82,
-    Uruguay = 83,
-    Madagascar = 84
+  Iran = 78,
+  Bahrain = 79,
+  Zimbabwe = 80,
+  ChineseTaipei = 81,
+  Chile = 82,
+  Uruguay = 83,
+  Madagascar = 84
 };
 ```
